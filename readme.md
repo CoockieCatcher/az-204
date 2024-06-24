@@ -1,3 +1,4 @@
+[![Board Status](https://dev.azure.com/hlu2si/b98bc540-9cae-49eb-9477-d48a142e3dc6/2284a027-200c-4a7b-b671-0851823f6715/_apis/work/boardbadge/d6efbf26-6e46-4a68-bb07-afbd55792df6)](https://dev.azure.com/hlu2si/b98bc540-9cae-49eb-9477-d48a142e3dc6/_boards/board/t/2284a027-200c-4a7b-b671-0851823f6715/Microsoft.RequirementCategory)
 # AZ-204: Developing solutions for Microsoft Azure
 
 Companion Material for Class Delivery by [Alexander Pajer](https://www.integrations.at/kontakt.aspx) containing:
